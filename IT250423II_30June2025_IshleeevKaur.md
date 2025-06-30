@@ -32,3 +32,10 @@ This page suggests clearing app caches, checking for system updates, and ensurin
 
 Explains how to use the built-in Windows Troubleshooter to resolve application-related issues.https://support.microsoft.com/en-us/windows/use-a-troubleshooter-with-windows-10-cc3cb85b-91d7-7e56-8ce1-db50b4d18d0b
 
+## Question 2
+### Windows file explorer training
+
+Here are some helpful tutorials for learning how to use Windows File Explorer:
+Offers a basic introduction to File Explorer, highlighting features such as file management, search options, and quick access https://support.microsoft.com/en-us/windows/file-explorer-in-windows-ef370130-1cca-9dc5-e0df-2f7416fe1cb1
+Provides an in-depth look at File Explorer’s navigation, customization options, and advanced features.https://uis.georgetown.edu/file-explorer/
+Focuses on the new features in File Explorer for Windows 11, including tabbed browsing and improved search functionality.https://www.bleepingcomputer.com/news/microsoft/hands-on-with-windows-11s-new-leaked-file-explorer-feature/
