@@ -21,3 +21,13 @@ Here are some articles supporting the basic steps for troubleshooting memory iss
 1.This article explains the importance of memory management in Windows and provides steps to increase virtual memory and close unnecessary apps. https://answers.microsoft.com/en-us/windows/forum/all/solved-memory-management-error-not-fixing-please/dad5eb25-0229-4c8c-9d28-064c97ec8355
 2.This article offers insights into managing startuo programs, checking RAM usage, and updating device drivers https://answers.microsoft.com/en-us/windows/forum/all/how-do-i-fix-a-high-memoryram-issue-windows-11/4eb85663-87e0-4b0d-bdf2-1f96378795d6
 3.This article provides tips like clearing the windows memory cache and adjusting system setings to free up memory https://www.windowscentral.com/how-check-memory-problems-windows-11
+
+## Troubleshooting MS Windows Applications
+
+**Common Troubleshootig steps for windows application**
+
+This page details steps like checking for app updates, reinstalling problematic apps, and running built-in troubleshooting tools.https://learn.microsoft.com/en-us/answers/questions/2007084/how-to-fix-we-cant-open-ms-windows-store-link-your
+
+This page suggests clearing app caches, checking for system updates, and ensuring sufficient free disk space.https://answers.microsoft.com/en-us/windows/forum/all/windows-apps-keep-crashing-upon-opening/a5f19bef-a3c9-4912-977a-59b31ebb9520
+
+Explains how to use the built-in Windows Troubleshooter to resolve application-related issues.https://support.microsoft.com/en-us/windows/use-a-troubleshooter-with-windows-10-cc3cb85b-91d7-7e56-8ce1-db50b4d18d0b
